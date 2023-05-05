@@ -23,6 +23,7 @@ public class TP02Ex11 {
 
             for (int j = 0; j < n; j++) {
 
+                System.out.println("Digite um valor: ");
                 a[i][j] = scanner.nextInt();
 
             }
