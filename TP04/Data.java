@@ -75,6 +75,12 @@ public class Data {
 			valido = false;
 		}
 
+		if (this.mes == 2) {
+			if (this.dia > 29) {
+				valido = false;
+			}
+		}
+
 		return valido;
 	}
 
