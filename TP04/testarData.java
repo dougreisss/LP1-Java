@@ -1,3 +1,7 @@
+/**
+ * @author Douglas Reis e Lucas Aquino
+ */
+
 public class testarData {
     public static void main(String[] args) {
 

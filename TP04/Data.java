@@ -1,3 +1,8 @@
+
+/**
+ * @author Douglas Reis e Lucas Aquino        
+ */
+
 import java.util.Scanner;
 import java.text.*;
 import java.time.LocalDateTime;
