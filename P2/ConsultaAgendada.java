@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * @author Douglas Reis e Lucas Aquino
+ */
+
 public class ConsultaAgendada {
     private Data data;
     private Hora hora;

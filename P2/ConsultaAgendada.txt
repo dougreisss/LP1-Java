@@ -1,0 +1,16 @@
+---------- AGENDAMENTO DE CONSULTA ----------
+Nome do paciente: Douglas
+Data: 14/10/2023
+Horario: 10:15:10
+Medico: Marcos
+---------- AGENDAMENTO DE CONSULTA ----------
+Nome do paciente: Douglas 
+Data: 13/10/2023
+Horario: 10:20:30
+Medico: Bruna
+---------- AGENDAMENTO DE CONSULTA ----------
+Nome do paciente: Douglas
+Data: 12/11/2023
+Horario: 15:30:10
+Medico: Wagner
+Quantidade de consultas: 2
